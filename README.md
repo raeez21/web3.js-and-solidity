@@ -20,3 +20,6 @@ This event is then caught in [EventListener.js](EventListener.js) which is writt
 
 Then `contractInstance.getPastEvents()` is used to get all past events of TokensSent and a filter is applied on the `_to` field.
 
+
+For more details refer [this](https://ethereum-blockchain-developer.com/2022-05-erc20-token/04-events-and-web3js/)
+
